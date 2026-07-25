@@ -1,0 +1,13 @@
+id,client_name,contract_type,value,start_date,payment_terms,email
+1,Acme Retail Ltda,Service Agreement,15000,2026-08-01,Net 30,contracts@acmeretail.com
+2,Blue Horizon Consulting,Service Agreement,8500,2026-08-03,Net 15,finance@bluehorizon.com
+3,,Service Agreement,12000,2026-08-05,Net 30,info@unknownclient.com
+4,Nortech Manufacturing,Supply Agreement,45000,2026-08-06,Net 45,procurement@nortech.com
+5,Silverline Logistics,Service Agreement,,2026-08-07,Net 30,ops@silverline.com
+6,Delta Financial Group,Master Service Agreement,22000,2026-08-08,Net 30,legal@deltafg.com
+7,Green Fields Agro,Supply Agreement,9800,invalid-date,Net 15,contact@greenfields.com
+8,Harborview Insurance,Service Agreement,18000,2026-08-10,Net 60,claims@harborview.com
+9,Pinecrest Realty,Service Agreement,6700,2026-08-11,Net 30,admin@pinecrest.com
+10,Quantum Data Systems,Master Service Agreement,31000,2026-08-12,Net 45,contracts@quantumdata.com
+11,Riverside Textiles,Supply Agreement,14200,2026-08-13,Net 30,orders@riversidetextiles.com
+12,Summit Health Partners,Service Agreement,26500,2026-08-14,Net 30,billing@summithealth.com

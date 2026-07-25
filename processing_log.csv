@@ -1,0 +1,13 @@
+id,client_name,status,reason,generated_file,processing_time_ms
+1,"Acme Retail Ltda",generated,,CT-2026-0001_Acme_Retail_Ltda.docx,201.4
+2,"Blue Horizon Consulting",generated,,CT-2026-0002_Blue_Horizon_Consulting.docx,31.5
+3,"",error,"missing client_name",,0
+4,"Nortech Manufacturing",generated,,CT-2026-0004_Nortech_Manufacturing.docx,31.6
+5,"Silverline Logistics",error,"missing or invalid value",,0
+6,"Delta Financial Group",generated,,CT-2026-0006_Delta_Financial_Group.docx,49.9
+7,"Green Fields Agro",error,"invalid start_date (expected YYYY-MM-DD)",,0
+8,"Harborview Insurance",generated,,CT-2026-0008_Harborview_Insurance.docx,53.9
+9,"Pinecrest Realty",generated,,CT-2026-0009_Pinecrest_Realty.docx,24.0
+10,"Quantum Data Systems",generated,,CT-2026-0010_Quantum_Data_Systems.docx,12.1
+11,"Riverside Textiles",generated,,CT-2026-0011_Riverside_Textiles.docx,16.3
+12,"Summit Health Partners",generated,,CT-2026-0012_Summit_Health_Partners.docx,30.7
